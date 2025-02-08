@@ -57,8 +57,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### Accessing the Web Interface
-Open `index.html` in a web browser to interact with the chatbot.
+
 
 ## Future Enhancements
 - Support for multiple websites
